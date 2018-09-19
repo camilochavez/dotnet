@@ -14,7 +14,6 @@ C:\Users\cchavez\Documents\.Net Practice\My First App\ConsoleApp\ConsoleApp1\bin
 C:\Users\cchavez\Documents\.Net Practice\My First App\ConsoleApp\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
 C:\Users\cchavez\Documents\.Net Practice\My First App\ConsoleApp\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
 C:\Users\cchavez\Documents\.Net Practice\My First App\ConsoleApp\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
-C:\Users\cchavez\Documents\.Net Practice\My First App\ConsoleApp\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
 C:\Users\cchavez\Documents\.Net Practice\My First App\ConsoleApp\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\cchavez\Documents\.Net Practice\My First App\ConsoleApp\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
 C:\Users\cchavez\Documents\.Net Practice\My First App\ConsoleApp\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
